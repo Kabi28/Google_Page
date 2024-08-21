@@ -1,0 +1,24 @@
+body{
+    text-align: center;
+}
+img{
+    width: 30%;
+    margin: auto;
+    margin-top: 12rem;
+}
+input{
+    width: 40%;
+    padding: 3px;
+    margin: 5px;
+    border: solid 1px blue;
+    
+}
+button{
+    margin: 5px;
+    margin-top: 8px;
+    padding: 5px;
+    background-color:rgb(232, 226, 226) ;
+    border-radius: 5px;
+    cursor: pointer;
+   
+}
